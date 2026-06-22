@@ -142,7 +142,7 @@ Data Cleaning | Exploratory Data Analysis (EDA) | Descriptive Statistics | Outli
 - Business Insights Summary
 
 ## Files
-- ![Dataset_for_Data_Analytics_Project 2.xlsx](Dataset_for_Data_Analytics_Project 2.xlsx) — Complete Excel workbook containing all analyses and visualizations.
+![Dataset_for_Data_Analytics_Project 2.xlsx](Dataset_for_Data_Analytics_Project 2.xlsx) — Complete Excel workbook containing all analyses and visualizations.
 
 ## Related Projects
 Project 1: Data Cleaning
