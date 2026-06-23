@@ -160,5 +160,5 @@ Data Cleaning | Exploratory Data Analysis (EDA) | Descriptive Statistics | Outli
 
 ## Related Projects
 - Project 1: Ecommerce Data Cleaning (https://github.com/Omowumi-A/Ecommerce-data-cleaning)
-- Project 3: SQL Analysis *(coming soon)*
+- Project 3: SQL Analysis (https://github.com/Omowumi-A/Ecommerce-sql-analysis)
 - Project 4: Data Visualization *(coming soon)*
